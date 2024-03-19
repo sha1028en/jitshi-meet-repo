@@ -3,8 +3,8 @@
   <groupId>com.facebook.react</groupId>
   <artifactId>react-native-async-storage</artifactId>
   <versioning>
-    <latest>1.19.4-jitsi-16451935</latest>
-    <release>1.19.4-jitsi-16451935</release>
+    <latest>1.19.4-jitsi-16452411</latest>
+    <release>1.19.4-jitsi-16452411</release>
     <versions>
       <version>1.19.4-jitsi-16443007</version>
       <version>1.19.4-jitsi-16443858</version>
@@ -19,7 +19,9 @@
       <version>1.19.4-jitsi-16451827</version>
       <version>1.19.4-jitsi-16451917</version>
       <version>1.19.4-jitsi-16451935</version>
+      <version>1.19.4-jitsi-16451966</version>
+      <version>1.19.4-jitsi-16452411</version>
     </versions>
-    <lastUpdated>20240319024915</lastUpdated>
+    <lastUpdated>20240319040833</lastUpdated>
   </versioning>
 </metadata>
